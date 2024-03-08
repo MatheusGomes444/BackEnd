@@ -1,0 +1,26 @@
+{
+  
+  "Clientes": [
+    {
+      "Id": "1",
+      "Nome": "Matheus Gomes da silva",
+      " CPF": "514.766.508.02",
+      "Endereco": "Vila Paulistana",
+      "Rua": "Rua nova Londrina",
+      "Bairro": "Jardim Tremembé",
+      "Cep": "02318230"
+      
+      
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
